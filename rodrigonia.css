@@ -13,3 +13,23 @@ p {
     font-family: verdana;
     size: 16px;
 }
+a:link{
+    color: #ffffff;
+    font-family: verdana;
+    size: 16px;
+}
+a:visited{
+    color: #ffd700;
+    font-family: verdana;
+    size:16px;
+}
+a:hover{
+    color: #ffeb80;
+    font-family: verdana;
+    size: 16px;
+}
+a:active{
+    color: #ffeb80;
+    font-family: verdana;
+    size: 16px;
+}
