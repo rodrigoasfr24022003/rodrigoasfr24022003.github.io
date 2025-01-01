@@ -27,3 +27,13 @@ li {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #ffffff;
 }
+a:link {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffd700;
+}
+a:visited {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+}
