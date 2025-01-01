@@ -47,3 +47,23 @@ a:active {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #ffffff;
 }
+p&a:link {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffd700;
+}
+p&a:link {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+}
+p&a:link {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffec80;
+}
+p&a:link {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+}
