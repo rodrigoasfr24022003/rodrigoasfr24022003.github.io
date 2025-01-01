@@ -5,13 +5,24 @@ h1 {
     font-size: 36px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #ffffff;
+    font-weight: bold;
 }
 h2 {
     font-size: 24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #ffd700;
 }
+h3 {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffd700;
+}
 p {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+}
+li {
     font-size: 12px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #ffffff;
