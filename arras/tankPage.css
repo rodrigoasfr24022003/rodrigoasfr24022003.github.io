@@ -1,0 +1,103 @@
+section.description{
+    grid-template-columns: auto 240px;
+    display: grid;
+    border: none
+}
+section.descriptionText{
+    border: none
+}
+section.descriptionText section{
+    border: none;
+    background-color: #00000000;
+}
+section.infobox{
+    grid-template-columns: 240px;
+    display: grid;
+    padding: 0px;
+}
+img{
+    width: 240px;
+    height: 240px;
+    border-bottom: 0.25em #ffd700 solid;
+}
+section.infobox p{
+    border-bottom: 0.125em #ffd700 solid;
+    text-align: center;
+    vertical-align: middle;
+    width: 240px;
+    margin-top: 0.5em;
+    margin-bottom: 0px;
+    padding-bottom: 0.5em;
+}
+section.infobox p.tier{
+    font-size: 2em;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+section.infobox p.beforeWeaponInfo{
+    border-bottom: none;
+    width: 240px;
+    text-align: left;
+    margin-left: 0.5em;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 0px;
+}
+section.infobox ul.weaponInfo{
+    border-bottom: 0.125em #ffd700 solid;
+    padding-bottom: 0.5em;
+}
+.tier2{
+    color: #7e7e74;
+    font-weight: bold;
+}
+.laserBlaster{
+    color: #f04f54;
+}
+section.infobox .bottom{
+    border-bottom: none;
+}
+.regularDamage{
+    color: #f04f54;
+}
+.shieldDamage{
+    color: #f69396;
+}
+.bad1{
+    color: #fbd5d6;
+}
+.bad2{
+    color: #f69396;
+}
+.bad3{
+    color: #f04f54;
+}
+.bad4{
+    color: #f04f54;
+    font-weight: bold;
+}
+.bad5{
+    color: #f04f54;
+    font-weight: bold;
+    font-style: italic;
+}
+.good1{
+    color: #d6fbd5;
+}
+.good2{
+    color: #97f594;
+}
+.good3{
+    color: #57ef52;
+}
+.good4{
+    color: #57ef52;
+    font-weight: bold;
+}
+.good5{
+    color: #57ef52;
+    font-weight: bold;
+    font-style: italic;
+}
