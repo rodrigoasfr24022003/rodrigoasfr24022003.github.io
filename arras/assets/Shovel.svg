@@ -2,9 +2,9 @@
 <svg
    inkscape:export-ydpi="863.99994"
    inkscape:export-xdpi="863.99994"
-   inkscape:export-filename="Pickaxe.png"
+   inkscape:export-filename="Shovel.png"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   sodipodi:docname="Pickaxe.svg"
+   sodipodi:docname="Shovel.svg"
    viewBox="0 0 144 144"
    height="144"
    width="144"
@@ -35,9 +35,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="180"
-     inkscape:cx="179.33002"
-     inkscape:zoom="2.2388889"
+     inkscape:cy="72"
+     inkscape:cx="71.91067"
+     inkscape:zoom="5.5972222"
      showgrid="false"
      id="namedview24"
      inkscape:window-height="1008"
@@ -54,31 +54,31 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1" />
   <g
-     transform="translate(-601.05886,-410.25398)"
+     transform="translate(-599.86199,-410.96503)"
      id="g30"
      inkscape:label="Image"
      inkscape:groupmode="layer">
     <g
        id="g1"
-       transform="matrix(0.34323796,-0.34317584,0.34323796,0.34317584,255.71973,547.97287)"
-       style="stroke-width:2.06029;paint-order:markers stroke fill">
+       transform="matrix(0.34313293,-0.34313296,0.34313293,0.34313296,254.98397,548.47512)"
+       style="stroke-width:2.06074;paint-order:markers stroke fill">
       <rect
-         style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.3618;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+         style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.3644;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
          id="rect52"
-         width="146.05978"
+         width="111.08773"
          height="28"
          x="687.5"
          y="498" />
       <circle
-         style="fill:#00b0e1;fill-opacity:1;stroke:#298199;stroke-width:12.3618;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         style="fill:#00b0e1;fill-opacity:1;stroke:#298199;stroke-width:12.3644;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          id="path22"
          cx="640"
          cy="512"
          r="57.000004" />
       <path
-         id="circle1"
-         style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.3618;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="m 721.35742,437.50046 21.67188,21.7832 c 28.51385,-10e-4 51.63096,23.60143 51.63086,52.7168 10e-5,29.11538 -23.11702,52.71783 -51.63086,52.7168 l -21.67188,21.78125 h 21.67188 c 41.14487,0 74.5,-33.35318 74.5,-74.49805 0,-38.53085 -33.35513,-74.5 -74.5,-74.5 z" />
+         id="rect3"
+         style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.3644;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 746.57031,478.30905 v 67.38086 h 52.01758 a 33.912849,33.690002 0 0 0 29.36914,-16.8457 33.912849,33.690002 0 0 0 0,-33.68945 33.912849,33.690002 0 0 0 -29.36914,-16.84571 z" />
     </g>
   </g>
 </svg>
