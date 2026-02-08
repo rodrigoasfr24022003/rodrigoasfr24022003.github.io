@@ -12,6 +12,10 @@ section.descriptionText section{
     border: none;
     background-color: #00000000;
 }
+section.descriptionText section.noBGStyle{
+    border: none;
+    background-color: #00000000;
+}
 section.infobox{
     grid-template-columns: 240px;
     display: grid;
@@ -111,4 +115,11 @@ section.infobox .bottom{
     color: #57ef52;
     font-weight: bold;
     font-style: italic;
+}
+.rock{
+    color: #999999;
+    font-weight: bold;
+}
+.gray{
+    color: #999999;
 }
