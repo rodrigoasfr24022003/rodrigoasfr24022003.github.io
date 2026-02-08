@@ -3,6 +3,7 @@ section.description{
     display: grid;
     border: none;
     background-color: #00000000;
+    padding-bottom: 2em;
 }
 section.descriptionText{
     border: none;
