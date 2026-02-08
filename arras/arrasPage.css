@@ -3,4 +3,21 @@ section.navigation{
     grid-template-columns: auto auto auto;
     text-align: center;
     margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 0px;
+}
+.noBorder{
+    border: none;
+}
+.topBorderOnly{
+    border-top: 0.25em #ffd700 solid;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+}
+section{
+    margin-left: 0px;
+}
+section :not(section){
+    margin-left: 0.5em;
 }

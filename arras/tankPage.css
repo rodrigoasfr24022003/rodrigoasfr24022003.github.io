@@ -6,11 +6,10 @@ section.description{
     padding-bottom: 2em;
 }
 section.descriptionText{
-    border: none;
+    border: 0.25em #ffd700 solid;
     background-color: #00000000;
 }
 section.descriptionText section{
-    border: none;
     background-color: #00000000;
 }
 section.descriptionText section.noBGStyle{
@@ -22,29 +21,32 @@ section.infobox{
     display: grid;
     padding: 0px;
 }
-img{
-    width: 240px;
-    height: 240px;
+section.infobox img{
+    width: 236px;
+    height: 236px;
     border-bottom: 0.25em #ffd700 solid;
+    margin-left: 0px;
 }
 section.infobox p{
     border-bottom: 0.125em #ffd700 solid;
     text-align: center;
     vertical-align: middle;
-    width: 240px;
+    width: 232px;
     margin-top: 0.5em;
     margin-bottom: 0px;
     padding-bottom: 0.5em;
+    margin-left: 0px;
 }
 section.infobox p.tier{
     font-size: 2em;
     text-align: center;
     margin: 0px 0px 0px 0px;
     padding: 0px 0px 0px 0px;
+    width: 236px;
 }
 section.infobox p.beforeWeaponInfo{
     border-bottom: none;
-    width: 240px;
+    width: 236px;
     text-align: left;
     margin-left: 0.5em;
     margin-right: 0px;
@@ -55,6 +57,7 @@ section.infobox p.beforeWeaponInfo{
 section.infobox ul.weaponInfo{
     border-bottom: 0.125em #ffd700 solid;
     padding-bottom: 0.5em;
+    margin-left: 0px;
 }
 .tier2{
     color: #7e7e74;
