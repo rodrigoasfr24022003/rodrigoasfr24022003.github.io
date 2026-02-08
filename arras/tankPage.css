@@ -64,6 +64,11 @@ section.infobox ul.weaponInfo{
     color: #7e7e74;
     font-weight: bold;
 }
+.tier3{
+    color: #36393d;
+    font-weight: bold;
+    background-color: #ffffff80;
+}
 .laserBlaster{
     color: #f04f54;
 }
@@ -134,5 +139,9 @@ section.infobox .bottom{
 }
 .stun{
     color: #ffff99;
+    font-weight: bold;
+}
+.weaken{
+    color: #9933ff;
     font-weight: bold;
 }
