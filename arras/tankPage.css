@@ -1,10 +1,12 @@
 section.description{
     grid-template-columns: auto 240px;
     display: grid;
-    border: none
+    border: none;
+    background-color: #00000000;
 }
 section.descriptionText{
-    border: none
+    border: none;
+    background-color: #00000000;
 }
 section.descriptionText section{
     border: none;
@@ -56,8 +58,17 @@ section.infobox ul.weaponInfo{
 .laserBlaster{
     color: #f04f54;
 }
+.APBullet{
+    color: #EFE87B;
+}
 section.infobox .bottom{
     border-bottom: none;
+}
+.DR{
+    color: #999999;
+}
+.health{
+    color: #57ef52;
 }
 .regularDamage{
     color: #f04f54;
