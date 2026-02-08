@@ -8,6 +8,7 @@ section.description{
 section.descriptionText{
     border: 0.25em #ffd700 solid;
     background-color: #00000040;
+    padding-right: 0.5em;
 }
 section.descriptionText section{
     background-color: #00000000;
