@@ -130,6 +130,9 @@ section.infobox .bottom{
     color: #999999;
     font-weight: bold;
 }
+.lightGray{
+    color: #cccccc;
+}
 .gray{
     color: #999999;
 }
