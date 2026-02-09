@@ -60,12 +60,20 @@ section.infobox ul.weaponInfo{
     padding-bottom: 0.5em;
     margin-left: 0px;
 }
+section.infobox ul.weaponInfo li{
+    width: 180px;
+}
 .tier2{
     color: #7e7e74;
     font-weight: bold;
 }
 .tier3{
     color: #36393d;
+    font-weight: bold;
+    background-color: #ffffff80;
+}
+.tier4{
+    color: #090b10;
     font-weight: bold;
     background-color: #ffffff80;
 }
@@ -140,6 +148,13 @@ section.infobox .bottom{
     color: #333333;
     background-color: #ffffff80;
 }
+.purple{
+    color: #9933ff;
+}
+.darkPurple{
+    color: #6600cc;
+    background-color: #ffffff80;
+}
 .soil{
     color: #9b7653;
     font-weight: bold;
@@ -151,4 +166,9 @@ section.infobox .bottom{
 .weaken{
     color: #9933ff;
     font-weight: bold;
+}
+.fragWeaken{
+    color: #008080;
+    font-weight: bold;
+    background-color: #ffffff80;
 }
