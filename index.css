@@ -90,3 +90,18 @@ th{
 td{
     border: 0.125em #ffffff solid;
 }
+a.redlink:link {
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ff0000;
+}
+a.redlink:visited {
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ff8080;
+}
+a.redlink:hover {
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+}
