@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>RNG Maniac</title>
+        <link rel="stylesheet" type="text/css" href="../../index.css">
+        <link rel="stylesheet" type="text/css" href="../arrasPage.css">
+        <link rel="stylesheet" type="text/css" href="../tankPage.css">
+        <link rel="icon" type="image/x-icon" href="../../icon.svg">
+    </head>
+    <body>
+        <h1>RNG Maniac</h1>
+            <section class="description twoInfoboxLevels">
+                <section class="descriptionText">
+                    <p>The <b>RNG Maniac</b> is a tank that shoots energy bullets than can be very strong. It upgrades from <a href="./charged_shooter.html">Charged Shooter</a> at level 45.</p>
+                    <h2>Design</h2>
+                    <section class="design noBorder">
+                        <p>It has a team-colored circular body with a <span class="darkGray">dark gray</span> square that has a charge indicator on top that is showing 2 in base 4 in team colors and a <span class="darkGray">dark gray</span> inwards tapering trapezoid in front of it.</p>
+                        <p>It also has 2 wide and short <span class="darkGray">dark gray</span> rectangles, capped on the sides by wide and very short <span class="darkGray">dark gray</span> trapezoids.</p>
+                        <p>In the front rectangle, it has a <span class="lightGray">light gray</span> square on the right, which represents 2 in base 4, and 2 triangles facing felt, one in the middle and one on the left, with them being <span class="gray">gray</span> in color.</p>
+                        <p>the back rectangle only has a "target symbol" on it, consisting of a <span class="gray">gray</span> circular outline and 4 lines, radially arranged with their midpoints on the circular outline.</p>
+                    </section>
+                    <h2>Technical</h2>
+                    <section class="technical noBorder">
+                        <h3>Charged Shot Variable Stats</h3>
+                        <p>The tank itself's base charged shot has <a href="https://woomyarrasio.fandom.com/wiki/Basic">Basic</a> bullet stats and a value of 2, but size increases with the formula 4*log_2(n)+1, with size 8 being Basic's bullet size.</p>
+                        <p>The other bullet stats increase according to the following table (properly interpolated):</p>
+                        <table>
+                            <tr>
+                                <th>Charged Shot Value</th>
+                                <th>Similar stats to</th>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Basic Bullet</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td><a href="https://woomyarrasio.fandom.com/wiki/Pounder">Pounder</a> Bullet</td>
+                            </tr>
+                            <tr>
+                                <td>32</td>
+                                <td><a href="https://woomyarrasio.fandom.com/wiki/Destroyer">Destroyer</a> Bullet</td>
+                            </tr>
+                            <tr>
+                                <td>256</td>
+                                <td><a href="https://woomyarrasio.fandom.com/wiki/Annihilator">Annihilator</a> Bullet</td>
+                            </tr>
+                            <tr>
+                                <td>1024</td>
+                                <td><a href="https://woomyarrasio.fandom.com/wiki/Decentralizer">Decentralizer</a> Bullet</td>
+                            </tr>
+                        </table>
+                        <p>Shoots variable stat bullets, called Charged Shots, that <span class="bad5">cancel out</span> with enemy bullets of the same type and <span class="good5">merge with</span> allied bullets of the same type.</p>
+                        <p>The RNG Maniac's barrel either doubles the charged shot's value or fires the barrel, with equal probability for both events.</p>
+                    </section>
+                    <section class="topBorderOnly navigation">
+                        <a href="../../index.html">Back to main page</a>
+                        <a href="../tanks.html">Back to tank index</a>
+                        <a href="../arras.html">Back to Arras index</a>
+                    </section>
+                </section> 
+                <section class="infobox twoLevels">
+                    <img src="../assets/RNG Maniac.svg">
+                    <p class="tier tier4">Tier 4 Tank</p>
+                    <p>Upgrades from Charged Shooter</p>
+                    <p class="beforeWeaponInfo">Weapons:</p>
+                    <ul class="weaponInfo">
+                        <li><b>1 RNG Charged Shot Barrel:</b></li>
+                        <ul>
+                            <li>Multiply charge by 2</li>
+                            <li>Fire Barrel</li>
+                        </ul>
+                    </ul>
+                    <p>Has same body stats as Destroyer</a></p>
+                    <p class="bottom">A Destroyer whose bullets merge with allied charged shots and cancel out with enemy charged shots.</p>
+                    </section>
+                </section> 
+            </section>
+    </body>
+</html>

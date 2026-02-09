@@ -76,3 +76,17 @@ p&a:link {
 .italic {
     font-style: italic;
 }
+table{
+    border: 0.25em #ffd700 solid;
+    font-size: 1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+    border-collapse: collapse;
+}
+th{
+    border: 0.125em #ffd700 solid;
+    border-bottom: 0.25em #ffd700 solid;
+}
+td{
+    border: 0.125em #ffffff solid;
+}
