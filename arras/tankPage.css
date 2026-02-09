@@ -197,12 +197,26 @@ section.infobox .bottom{
     color: #333333;
     background-color: #ffffff80;
 }
-.purple{
-    color: #9933ff;
+.darkRed{
+    color: #660000;
+    background-color: #ffffff80;
+}
+.darkCyan{
+    color: #006666;
+    background-color: #ffffff80;
 }
 .darkPurple{
     color: #6600cc;
     background-color: #ffffff80;
+}
+.orange{
+    color: #ff8000;
+}
+.cyan{
+    color: #00ffff;
+}
+.purple{
+    color: #9933ff;
 }
 .soil{
     color: #9b7653;
@@ -216,6 +230,10 @@ section.infobox .bottom{
     color: #9933ff;
     font-weight: bold;
 }
+.torch{
+    color: #ff9900;
+    font-weight: bold;
+}
 .fragWeaken{
     color: #008080;
     font-weight: bold;
@@ -225,4 +243,20 @@ section.infobox .bottom{
     color: #000000;
     font-weight: bold;
     background-color: #ffffff80;
+}
+.chiller{
+    color: #99ffff;
+    font-weight: bold;
+}
+.lava{
+    background-image: linear-gradient(to right, #ff6600 0%,#ffcc00 20%,#ffcc00 30%,#ff6600 40%,#ff9900 50%,#ff9900 60%,#ff6600 70%,#ff9900 80%,#ff9900 90%,#ff6600 100%);
+    color: transparent;
+    background-clip: text;
+    font-weight: bold;
+}
+.ice{
+    background-image: linear-gradient(to right, #0066ff 0%,#00ccff 20%,#00ccff 30%,#0066ff 40%,#0099ff 50%,#0099ff 60%,#0066ff 70%,#0099ff 80%,#0099ff 90%,#0066ff 100%);
+    color: transparent;
+    background-clip: text;
+    font-weight: bold;
 }
