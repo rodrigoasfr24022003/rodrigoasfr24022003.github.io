@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg870"
+   width="120"
+   height="120"
+   viewBox="0 0 120 119.99999"
+   sodipodi:docname="Lucky Charm.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="C:\Users\rodri\Pictures\Arras Images\actualtanks\Lucky Charm.png"
+   inkscape:export-xdpi="863.99994"
+   inkscape:export-ydpi="863.99994"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata876">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs874" />
+  <sodipodi:namedview
+     inkscape:snap-object-midpoints="false"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     id="namedview872"
+     showgrid="false"
+     inkscape:zoom="5.2331283"
+     inkscape:cx="81.500009"
+     inkscape:cy="60.002351"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g878"
+     inkscape:object-nodes="false"
+     inkscape:snap-center="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g878"
+     transform="translate(-580,-451.99084)">
+    <g
+       id="g1"
+       style="stroke-width:2.0863;paint-order:markers stroke fill"
+       transform="matrix(0.33892826,-0.33892961,0.33892826,0.33892961,242.11987,562.80544)">
+      <rect
+         style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.5178;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect897"
+         width="49.5"
+         height="49"
+         x="690.5"
+         y="487.5" />
+      <path
+         d="m 639.66398,454.99183 a 57.019028,57.01886 0 0 0 -39.98242,16.69922 57.019028,57.01886 0 0 0 0,80.63672 57.019028,57.01886 0 0 0 80.63672,0 l 40.31836,-40.31836 -40.31836,-40.31836 a 57.019028,57.01886 0 0 0 -40.6543,-16.69922 z"
+         style="fill:#00b0e1;fill-opacity:1;stroke:#298199;stroke-width:12.5178;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="path22-3" />
+    </g>
+  </g>
+</svg>
