@@ -5,6 +5,7 @@ section.navigation{
     padding-top: 1em;
     padding-bottom: 1em;
     margin-left: 0px;
+    height: 2em;
 }
 .noBorder{
     border: none;

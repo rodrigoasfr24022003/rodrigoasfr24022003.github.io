@@ -28,6 +28,8 @@ section.infobox{
     grid-template-columns: 240px;
     display: grid;
     padding: 0px;
+    grid-column: 2;
+    grid-row: 1/3;
 }
 section.infobox.twoLevels{
     grid-template-columns: 300px;
@@ -214,14 +216,23 @@ section.infobox .bottom{
     color: #6600cc;
     background-color: #ffffff80;
 }
+.red{
+    color: #f04f54;
+}
 .orange{
     color: #ff8000;
 }
 .yellow{
     color: #FFE46B;
 }
+.green{
+    color: #57ef52;
+}
 .cyan{
     color: #00ffff;
+}
+.blue{
+    color: #4F54F0;
 }
 .purple{
     color: #9933ff;
