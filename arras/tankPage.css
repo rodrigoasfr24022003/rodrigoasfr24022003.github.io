@@ -133,6 +133,10 @@ section.infobox .bottom{
 .gray{
     color: #999999;
 }
+.darkGray{
+    color: #333333;
+    background-color: #ffffff80;
+}
 .soil{
     color: #9b7653;
     font-weight: bold;
