@@ -122,6 +122,11 @@ section.infobox ul.weaponInfo li{
     font-weight: bold;
     background-color: #ffffff80;
 }
+.tier5{
+    color: #3b2920;
+    font-weight: bold;
+    background-color: #ffffff80;
+}
 .laserBlaster{
     color: #f04f54;
 }

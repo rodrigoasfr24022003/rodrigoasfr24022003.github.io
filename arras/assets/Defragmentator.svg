@@ -65,12 +65,55 @@
      transform="translate(-738.89388,-437.13064)">
     <g
        id="g29"
-       transform="rotate(-45,854.04969,476.30341)">
+       transform="rotate(-45,860.24758,491.26645)">
       <g
          id="g3">
         <g
            id="g13"
            transform="translate(-10)">
+          <g
+             id="g12"
+             transform="translate(50.549217,-1.4998093)">
+            <rect
+               style="fill:#008080;fill-opacity:1;stroke:#006060;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+               id="rect11"
+               width="43.515244"
+               height="16.893635"
+               x="793.01453"
+               y="452.10635" />
+            <rect
+               style="fill:#008080;fill-opacity:1;stroke:#006060;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+               id="rect12"
+               width="43.515244"
+               height="16.893635"
+               x="793.01453"
+               y="471.99963" />
+          </g>
+          <g
+             id="g8"
+             transform="translate(38.336724,-1.4998093)">
+            <rect
+               style="fill:#008080;fill-opacity:1;stroke:#006060;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+               id="rect6"
+               width="43.515244"
+               height="10.964298"
+               x="793.01453"
+               y="452.10635" />
+            <rect
+               style="fill:#008080;fill-opacity:1;stroke:#006060;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+               id="rect7"
+               width="43.515244"
+               height="10.964298"
+               x="793.01453"
+               y="477.92896" />
+            <rect
+               style="fill:#008080;fill-opacity:1;stroke:#006060;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+               id="rect8"
+               width="43.515244"
+               height="10.964298"
+               x="793.01453"
+               y="465.01749" />
+          </g>
           <g
              id="g10"
              transform="translate(25.757629,-1.4998093)">
