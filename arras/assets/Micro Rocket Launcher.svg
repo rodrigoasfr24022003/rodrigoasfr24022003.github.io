@@ -4,9 +4,9 @@
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    id="svg846"
    version="1.1"
-   viewBox="0 0 199.99999 200"
-   height="200"
-   width="200"
+   viewBox="0 0 215.99999 216"
+   height="216"
+   width="216"
    inkscape:export-filename="(C)-Missiler.png"
    inkscape:export-xdpi="864"
    inkscape:export-ydpi="864"
@@ -36,9 +36,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="100"
-     inkscape:cx="99.875931"
-     inkscape:zoom="4.03"
+     inkscape:cy="38.05013"
+     inkscape:cx="296.86281"
+     inkscape:zoom="1.3928993"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1"
@@ -69,8 +69,8 @@
      inkscape:label="Layer 1">
     <g
        id="g5"
-       transform="rotate(-45,566.77316,674.39808)"
-       style="stroke-width:6;stroke-dasharray:none;paint-order:markers stroke fill">
+       style="stroke-width:6;stroke-dasharray:none;paint-order:markers stroke fill"
+       transform="rotate(-45,580.43001,668.74122)">
       <g
          id="g97"
          transform="matrix(0.78530368,0,0,0.73579813,464.17572,670.69361)"
