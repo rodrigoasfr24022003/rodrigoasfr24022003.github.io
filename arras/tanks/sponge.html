@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Sponge</title>
+        <link rel="stylesheet" type="text/css" href="../../index.css">
+        <link rel="stylesheet" type="text/css" href="../arrasPage.css">
+        <link rel="stylesheet" type="text/css" href="../tankPage.css">
+        <link rel="icon" type="image/x-icon" href="../../icon.svg">
+    </head>
+    <body>
+        <h1>Sponge</h1>
+            <section class="description">
+                <section class="descriptionText">
+                    <p>The <b>Sponge</b> is a <a href="https://woomyarrasio.fandom.com/wiki/Smasher">Smasher</a> that absorbs effects. It upgrades from Smasher at level 60.</p>
+                    <h2>Design</h2>
+                    <section class="design noBorder">
+                        <p>It has a team-colored circular body with holes and a wavy <span class="lightYellow">light yellow</span> shell on the outside.</p>
+                    </section>
+                    <h2>Technical</h2>
+                    <section class="technical noBorder">
+                        <h3 class="noBGStyle">The tank itself</h3>
+                        <p>It is a smasher that can absorb effects to a certain extent.</p>
+                        <h3 class="noBGStyle">Effect Absorption</h3>
+                        <p>The Sponge can absorb effects from bullets or from ramming tanks, as follows:</p>
+                        <p><i>Exposure amount varies with size, with a tank body giving 2.5x more exposure than a Basic bullet with the effect. Values are for a Sniper bullet (1.25x exposure).</i></p>
+                        <table>
+                            <tr>
+                                <th>Effect</th>
+                                <th>Max Exposure</th>
+                                <th>Negative Effect on Unsafe Exposure</th>
+                            </tr>
+                            <tr>
+                                <td class="chiller">Freezing</td>
+                                <td>5 seconds of Freezing 2 or 1 minute of Freezing 1. Freezing levels greater than 2 trigger the unsafe exposure effect instantly.</td>
+                                <td>The sponge crystallizes, preventing absorption until the next ram, where it releases all effect fluid as a puddle.</td>
+                            </tr>
+                            <tr>
+                                <td class="acid">Acid/Poison</td>
+                                <td>5 seconds of Acid 2 or 1 minute of Acid 1. Acid levels greater than 2 trigger the unsafe exposure effect instantly.</td>
+                                <td>The sponge starts disintegrating, slowly releasing its fluids as puddles.</td>
+                            </tr>
+                            <tr>
+                                <td class="torch">Torch/Fire</td>
+                                <td>All exposure is unsafe.</td>
+                                <td>The sponge starts burning, rapidly releasing its fluids as gas.</td>
+                            </tr>
+                            <tr>
+                                <td class="lava">Hellfire (Earth)</td>
+                                <td>All exposure is unsafe.</td>
+                                <td>Instant death, releases fluids and explodes in a large radius.</td>
+                            </tr>
+                            <tr>
+                                <td class="weaken">Weakness</td>
+                                <td>5 seconds of Weakness 2 or 1 minute of Weakness 1. Weakness levels greater than 2 trigger the unsafe exposure effect instantly.</td>
+                                <td>The sponge disintegrates when hit, releasing fluid as puddles.</td>
+                            </tr>
+                            <tr>
+                                <td class="stun">Cripple/Paralyze</td>
+                                <td>5 seconds of Paralyze.</td>
+                                <td>Paralyzes the tank and prevents absorption and release until it is hit.</td>
+                            </tr>
+                            <tr>
+                                <td class="EMP">EMP</td>
+                                <td>All exposure is safe.</td>
+                                <td>None as EMP only affects barrels.</td>
+                            </tr>
+                            <tr>
+                                <td class="rejuvenation">Rejuvenation (PS3/Abyss)</td>
+                                <td>All exposure is unsafe.</td>
+                                <td>Effect functions normaly.</td>
+                            </tr>
+                            <tr>
+                                <td class="lightGray"><b>Reverse (PS3/Abyss)</b></td>
+                                <td>All exposure is unsafe.</td>
+                                <td>Effect functions normaly.</td>
+                            </tr>
+                            <tr>
+                                <td class="destabilize">Destabilize (PS3/Abyss)</td>
+                                <td>5 seconds of Destabilize 2 or 1 minute of Destabilize 1. Weakness levels greater than 2 trigger the unsafe exposure effect instantly.</td>
+                                <td>Gradually reduces sponge's absorption rate.</td>
+                            </tr>
+                            <tr>
+                                <td class="gray"><b>Steel</b></td>
+                                <td>Unabsorbable</td>
+                                <td>No effect.</td>
+                            </tr>
+                            <tr>
+                                <td class="beserk"><b>Beserk(PS3/Abyss)</b></td>
+                                <td>Unabsorbable</td>
+                                <td>No effect.</td>
+                            </tr>
+                            <tr>
+                                <td class="demobrigation"><b>Demobrigation(Toast)</b></td>
+                                <td>All exposure is unsafe.</td>
+                                <td>Makes exposure to any amount of any effect unsafe.</td>
+                            </tr>
+                            <tr>
+                                <td class="gravitate"><b>Gravitate(Fourche)</b></td>
+                                <td>Exposure to a Gravitate effect stronger than 5g is unsafe and exposure to a Gravitate effect stroner than 15g instakills.</td>
+                                <td>Decreases the sponge's size.</td>
+                            </tr>
+                            <tr>
+                                <td class="extremeDownforce"><b>Extreme Downforce</b></td>
+                                <td>All exposure is safe.</td>
+                                <td>Does nothing.</td>
+                            </tr>
+                            <tr>
+                                <td class="extremeUpforce"><b>Extreme Upforce</b></td>
+                                <td>All exposure is safe.</td>
+                                <td>Does nothing.</td>
+                            </tr>
+                            <tr>
+                                <td class="unfix"><b>Unfix(Smaragdus)</b></td>
+                                <td>All exposure is safe.</td>
+                                <td>Does nothing.</td>
+                            </tr>
+                            <tr>
+                                <td class="lightGray"><b>Infestation</b></td>
+                                <td>All exposure is unsafe.</td>
+                                <td>Damages the sponge without releasing fluids. The resulting infesters will have all effects of the sponge.</td>
+                            </tr>
+                            <tr>
+                                <td><a href="https://docs.google.com/presentation/d/1AchQE1DVfURD5wDdQVpQpchNTvhFgyyAqubz4c5gV3U/edit?slide=id.g2ebc03765d0_0_0#slide=id.g2ebc03765d0_0_0">Other Effects</a></td>
+                                <td>All exposure is safe.</td>
+                                <td>Does nothing.</td>
+                            </tr>
+                        </table>
+                    </section>
+
+                </section> 
+                <section class="infobox">
+                    <img src="../assets/Sponge.svg">
+                    <p class="tier tier5">Tier 5 Tank</p>
+                    <p>Upgrades from Smasher</p>
+                    <p class="beforeWeaponInfo">Weapons:</p>
+                    <ul class="weaponInfo">
+                        <li class="lightYellow"><b>1 Sponge Shell</b></li>
+                    </ul>
+                    <p>Inherits body stats from Smasher</a></p>
+                    <p class="bottom">A Smasher that can absorb effects.</p>
+                </section>
+                <section class="navigation">
+                    <a href="../../index.html">Back to main page</a>
+                    <a href="../tanks.html">Back to tank index</a>
+                    <a href="../arras.html">Back to Arras index</a>
+                </section>
+            </section> 
+        </section>
+    </body>
+</html>

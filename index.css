@@ -86,9 +86,11 @@ table{
 th{
     border: 0.125em #ffd700 solid;
     border-bottom: 0.25em #ffd700 solid;
+    max-width: 15em;
 }
 td{
     border: 0.125em #ffffff solid;
+    max-width: 15em;
 }
 a.redlink:link {
     font-size: 1em;
