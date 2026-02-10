@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg10"
+   width="96"
+   height="96"
+   viewBox="0 0 95.999991 95.999998"
+   sodipodi:docname="Painite.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="D:\Arras Images\actualtanks\Painite.png"
+   inkscape:export-xdpi="864"
+   inkscape:export-ydpi="864"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="5.6437962"
+     inkscape:cx="75.569702"
+     inkscape:cy="37.386183"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18"
+     inkscape:object-nodes="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:document-rotation="0"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-center="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g18"
+     transform="translate(-731.62186,-433.89401)">
+    <g
+       id="g845"
+       transform="matrix(0.67482314,-0.67482314,0.67683554,0.67683556,-57.70531,685.16495)"
+       style="stroke-width:6.27768;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill">
+      <path
+         sodipodi:type="star"
+         style="fill:#660000;stroke:#4d0000;stroke-width:7.03071;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill;stop-color:#000000"
+         id="path841"
+         sodipodi:sides="6"
+         sodipodi:cx="770.26544"
+         sodipodi:cy="467.64755"
+         sodipodi:r1="40.749561"
+         sodipodi:r2="35.290154"
+         sodipodi:arg1="-1.0471976"
+         sodipodi:arg2="-0.52359878"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 790.64022,432.3574 20.37478,35.29015 -20.37478,35.29016 -40.74956,0 -20.37478,-35.29016 20.37478,-35.29015 z"
+         transform="matrix(0.89318909,0,0,0.8926028,83.022753,50.974038)" />
+      <circle
+         style="fill:#00b0e1;fill-opacity:1;stroke:#0083a8;stroke-width:6.27768;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         id="path22"
+         cx="771.01544"
+         cy="468.39755"
+         r="28.5" />
+    </g>
+  </g>
+</svg>
