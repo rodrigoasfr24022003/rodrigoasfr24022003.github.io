@@ -316,6 +316,10 @@ section.infobox .bottom{
     color: #AF7848;
     font-weight: bold;
 }
+.mutation{
+    color: #5CC6A2;
+    font-weight: bold;
+}
 .lava{
     background-image: linear-gradient(to right, #ff6600 0%,#ffcc00 20%,#ffcc00 30%,#ff6600 40%,#ff9900 50%,#ff9900 60%,#ff6600 70%,#ff9900 80%,#ff9900 90%,#ff6600 100%);
     color: transparent;
