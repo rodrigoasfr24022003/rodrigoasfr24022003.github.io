@@ -320,6 +320,9 @@ section.infobox .bottom{
     color: #5CC6A2;
     font-weight: bold;
 }
+.gold{
+    color: #ffd700;
+}
 .lava{
     background-image: linear-gradient(to right, #ff6600 0%,#ffcc00 20%,#ffcc00 30%,#ff6600 40%,#ff9900 50%,#ff9900 60%,#ff6600 70%,#ff9900 80%,#ff9900 90%,#ff6600 100%);
     color: transparent;
@@ -331,4 +334,26 @@ section.infobox .bottom{
     color: transparent;
     background-clip: text;
     font-weight: bold;
+}
+section.infobox section.infoboxButtons.columns2{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-left: 0px;
+    width: 228px;
+    border: none;
+    box-sizing: border-box;
+    gap: 0.125em;
+}
+
+section.infobox section.infoboxButtons p.button{
+    width: auto;
+    border: none;
+    box-shadow: 0px 0px 0px 0.125em #ffd700;
+    margin-top: 0px;
+    padding-top: 8px;
+}
+
+section.infobox section.infoboxButtons p.button.selected{
+    background-color: #ffd700;
+    color: #000000;
 }
