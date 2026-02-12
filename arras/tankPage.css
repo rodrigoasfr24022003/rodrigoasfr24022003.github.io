@@ -357,3 +357,24 @@ section.infobox section.infoboxButtons p.button.selected{
     background-color: #ffd700;
     color: #000000;
 }
+
+section.design section.inPageImage{
+    float: right;
+    display: grid;
+    grid-template-columns: 120px;
+}
+
+section.design section.inPageImage img{
+    width: 120px;
+    height: 120px;
+    border: 0.25em solid #ffd700;
+    margin: 0px;
+    border-radius: 0.5em;
+}
+
+section.design section.inPageImage p.imgLegend{
+    border: 0.25em solid #ffd700;
+    margin: 0px;
+    width: 120px;
+    border-radius: 0.5em;
+}
