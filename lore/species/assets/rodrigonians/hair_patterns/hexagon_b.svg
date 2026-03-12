@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="hexagon_b.svg"
+   inkscape:export-filename="chevron.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="6.7166667"
+     inkscape:cx="59.925558"
+     inkscape:cy="60"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#003153;stroke:none;stroke-linecap:round;stroke-linejoin:round"
+       id="rect1"
+       width="120"
+       height="120"
+       x="0"
+       y="0" />
+    <path
+       id="path2"
+       style="fill:#ffd700;stroke:none;stroke-width:0.810918;stroke-linecap:round;stroke-linejoin:round"
+       d="M 60 23.50869 L 28.397955 41.754345 L 28.397955 78.245655 L 60 96.49131 L 91.602045 78.245655 L 91.602045 41.754345 L 60 23.50869 z M 60 25.941444 L 89.495559 42.970722 L 89.495559 77.029278 L 60 94.058556 L 30.504441 77.029278 L 30.504441 42.970722 L 60 25.941444 z "
+       transform="matrix(1.2331703,0,0,1.2331703,-13.990218,-13.990218)" />
+  </g>
+</svg>

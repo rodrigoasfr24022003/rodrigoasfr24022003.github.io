@@ -107,3 +107,16 @@ a.redlink:hover {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #ffffff;
 }
+section.bottomPadding {
+    padding-bottom: 1em;
+}
+section.noBGStyle{
+    border: none;
+    background-color: #00000000;
+}
+.gray{
+    color: #999999;
+}
+p.small{
+    font-size: 0.7em;
+}

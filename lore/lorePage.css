@@ -1,0 +1,59 @@
+.plain{
+    display: grid;
+    grid-template-columns: 120px 120px 120px 120px;
+    grid-template-rows: 120px 120px;
+    width: 480px;
+    padding-left: 0em;
+    margin-bottom: 1em;
+}
+.plain2{
+    display: grid;
+    grid-template-columns: 120px 120px 120px 120px 120px;
+    grid-template-rows: 240px 240px 240px;
+    width: 600px;
+    padding-left: 0em;
+    margin-bottom: 1em;
+}
+.rodrigoniaBlueBG{
+    background-color: #003153;
+    border: none;
+    font-weight: bold;
+}
+.goldBG{
+    background-color: #ffd700;
+    border: none;
+    font-weight: bold;
+}
+.whiteBG{
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    font-weight: bold;
+}
+.cyanBG{
+    background-color: #008080;
+    border: none;
+    font-weight: bold;
+}
+.greenBG{
+    background-color: #008000;
+    border: none;
+    font-weight: bold;
+}
+.redBG{
+    background-color: #800000;
+    border: none;
+    font-weight: bold;
+}
+.tyrianPurpleBG{
+    background-color: #66023c;
+    border: none;
+    font-weight: bold;
+}
+.othersBG{
+    border: none;
+    font-weight: bold;
+}
+.goldBG p, .whiteBG p{
+    color: #000000;
+}
