@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg870"
+   width="144"
+   height="144"
+   viewBox="0 0 144 144"
+   sodipodi:docname="Phaser.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   inkscape:export-filename="C:\Users\rodri\Pictures\Arras Images\actualtanks\Phaser.png"
+   inkscape:export-xdpi="863.99994"
+   inkscape:export-ydpi="863.99994"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata876">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs874" />
+  <sodipodi:namedview
+     inkscape:snap-object-midpoints="true"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     id="namedview872"
+     showgrid="false"
+     inkscape:zoom="5.5972222"
+     inkscape:cx="71.91067"
+     inkscape:cy="72"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g878"
+     inkscape:object-nodes="false"
+     inkscape:snap-center="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g878"
+     transform="translate(-537.14994,-452)">
+    <g
+       id="g1"
+       style="stroke-width:12.3773;stroke-dasharray:none;paint-order:markers stroke fill"
+       transform="matrix(0.34277604,-0.34277604,0.34277604,0.34277604,219.30345,562.84383)">
+      <path
+         style="fill:#ccffff;fill-opacity:1;stroke:#9abcbc;stroke-width:12.3773;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         d="m 540.14981,566.00749 h 83.4457 v -49.88764 h -64.56929 z"
+         id="path838"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="58.127341"
+         inkscape:transform-center-y="29.06367" />
+      <path
+         style="fill:#ccffff;fill-opacity:1;stroke:#9abcbc;stroke-width:12.3773;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         d="m 540.14981,457.99251 h 83.4457 v 49.88764 h -64.56929 z"
+         id="path13"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="58.127341"
+         inkscape:transform-center-y="-29.063671" />
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.3773;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         d="m 553.48314,566.00749 h 70.11237 v -49.88764 h -51.23596 z"
+         id="path11"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="51.460676"
+         inkscape:transform-center-y="29.06367" />
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.3773;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000"
+         d="m 553.48314,457.99251 h 70.11237 v 49.88764 h -51.23596 z"
+         id="path9"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="51.460676"
+         inkscape:transform-center-y="-29.063671" />
+      <rect
+         style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.3773;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect897"
+         width="49.5"
+         height="49"
+         x="690.5"
+         y="487.5" />
+      <circle
+         style="fill:#00b0e1;fill-opacity:1;stroke:#298199;stroke-width:12.3773;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path22"
+         cx="640"
+         cy="512"
+         r="57.000004" />
+    </g>
+  </g>
+</svg>
