@@ -120,3 +120,8 @@ section.noBGStyle{
 p.small{
     font-size: 0.7em;
 }
+span.code{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #00000080;
+    padding: 0.125em;
+}
