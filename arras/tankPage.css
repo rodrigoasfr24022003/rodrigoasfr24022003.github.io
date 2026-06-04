@@ -133,6 +133,10 @@ section.infobox ul.weaponInfo li{
 .laserBlaster{
     color: #f04f54;
 }
+.taurus{
+    color: #f04f54;
+    font-weight: bold;
+}
 .APBullet{
     color: #EFE87B;
 }
@@ -322,6 +326,13 @@ section.infobox .bottom{
 }
 .gold{
     color: #ffd700;
+}
+
+.blazeRod{
+    background-image: linear-gradient(to right, #fff32d 0%, #ffc100 10%, #fff32d 20%, #ffc100 30%, #fff32d 40%, #fff87e 50%, #fff32d 60%, #fff32d 70%, #fff87e 80%, #fff87e 90%, #fff32d 100%);
+    color: transparent;
+    background-clip: text;
+    font-weight: bold;
 }
 .lava{
     background-image: linear-gradient(to right, #ff6600 0%,#ffcc00 20%,#ffcc00 30%,#ff6600 40%,#ff9900 50%,#ff9900 60%,#ff6600 70%,#ff9900 80%,#ff9900 90%,#ff6600 100%);
