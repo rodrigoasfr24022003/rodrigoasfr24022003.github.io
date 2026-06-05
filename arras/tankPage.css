@@ -111,6 +111,9 @@ section.infobox ul.weaponInfo{
 section.infobox ul.weaponInfo li{
     width: 180px;
 }
+section.infobox ul.weaponInfo ul li{
+    width: 135px;
+}
 .tier2{
     color: #7e7e74;
     font-weight: bold;
