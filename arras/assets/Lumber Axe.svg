@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:export-ydpi="864"
+   inkscape:export-xdpi="864"
+   inkscape:export-filename="Lumber Axe.png"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="Lumber Axe.svg"
+   viewBox="0 0 320 319.99999"
+   height="320"
+   width="320"
+   id="svg32"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs36" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:current-layer="g40"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="160"
+     inkscape:cx="160"
+     inkscape:zoom="2.51875"
+     showgrid="false"
+     id="namedview34"
+     inkscape:window-height="1008"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     transform="translate(-483.07916,-409.88657)"
+     id="g40"
+     inkscape:label="Image"
+     inkscape:groupmode="layer">
+    <g
+       id="g1"
+       style="stroke-width:2.04561;paint-order:markers stroke fill"
+       transform="matrix(0.35057899,-0.35057899,0.34083006,0.34083006,173.21632,690.73944)">
+      <path
+         id="path13"
+         style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.2737;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 585.30638,495.94982 v 32.10033 l -99.2288,-16.05016 z" />
+      <rect
+         style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.2737;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect1"
+         width="404.97119"
+         height="32.097935"
+         x="694.69397"
+         y="495.95105" />
+      <circle
+         style="fill:#00b0e1;fill-opacity:1;stroke:#0083a8;stroke-width:12.2737;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path22"
+         cx="640"
+         cy="512"
+         r="57" />
+      <path
+         id="path4"
+         style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.2737;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 1099.6654,495.94982 v 32.10033 l 99.2288,-16.05016 z" />
+      <path
+         style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.2737;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path1"
+         sodipodi:type="arc"
+         sodipodi:cx="941.39575"
+         sodipodi:cy="579.0155"
+         sodipodi:rx="165.46317"
+         sodipodi:ry="166.12894"
+         sodipodi:start="3.9269908"
+         sodipodi:end="5.4977871"
+         sodipodi:arc-type="slice"
+         d="m 824.39562,461.54461 a 165.46317,166.12894 0 0 1 234.00028,-10e-6 L 941.39575,579.0155 Z" />
+    </g>
+  </g>
+</svg>
