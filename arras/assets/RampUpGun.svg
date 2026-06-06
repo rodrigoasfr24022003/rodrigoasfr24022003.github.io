@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   inkscape:export-ydpi="863.99994"
+   inkscape:export-xdpi="863.99994"
+   inkscape:export-filename="RampUpGun.png"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="RampUpGun.svg"
+   viewBox="0 0 120 120.00001"
+   height="120.00001"
+   width="120"
+   id="svg1564"
+   version="1.1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata1570">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs1568" />
+  <sodipodi:namedview
+     inkscape:object-nodes="false"
+     inkscape:current-layer="g1572"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="59.965933"
+     inkscape:cx="59.965933"
+     inkscape:zoom="7.9878687"
+     showgrid="false"
+     id="namedview1566"
+     inkscape:window-height="1008"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     transform="translate(-580,-160.74563)"
+     id="g1572"
+     inkscape:label="Image"
+     inkscape:groupmode="layer"
+     inkscape:highlight-color="#00b0e1">
+    <g
+       id="g17"
+       transform="matrix(0.34445639,-0.34445639,0.33494778,0.33494778,227.97104,289.78807)"
+       style="stroke-width:12.4905;stroke-dasharray:none;paint-order:markers stroke fill">
+      <g
+         id="g16"
+         transform="translate(15.12746)"
+         style="stroke-width:12.4905;stroke-dasharray:none;paint-order:markers stroke fill">
+        <g
+           transform="translate(-1)"
+           id="g14"
+           style="stroke-width:12.4905;stroke-dasharray:none;paint-order:markers stroke fill">
+          <rect
+             style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.4905;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+             id="rect11"
+             width="127"
+             height="14"
+             x="675"
+             y="491.5" />
+          <rect
+             transform="scale(1,-1)"
+             y="-532.5"
+             x="675"
+             height="14"
+             width="127"
+             id="rect13"
+             style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.4905;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+          <rect
+             y="505"
+             x="675"
+             height="14"
+             width="127"
+             id="rect14"
+             style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.4905;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+        </g>
+        <rect
+           y="481.45908"
+           x="673"
+           height="61.081867"
+           width="34"
+           id="rect15"
+           style="fill:#999999;fill-opacity:1;stroke:#757575;stroke-width:12.4905;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+        <path
+           id="rect16"
+           style="fill:#999999;stroke:#757575;stroke-width:12.4905;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers stroke fill"
+           d="m 741.5,481.45907 h 34 l 10,30.54093 -10,30.54093 h -34 L 751.5,512 Z"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
+      <circle
+         r="57.000004"
+         cy="512"
+         cx="640"
+         id="circle16"
+         style="fill:#00b0e1;fill-opacity:1;stroke:#298199;stroke-width:12.4905;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    </g>
+  </g>
+</svg>
