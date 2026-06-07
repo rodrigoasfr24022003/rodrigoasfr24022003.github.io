@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="108"
+   height="108"
+   viewBox="0 0 108 108"
+   sodipodi:docname="Missile Silo.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.462963"
+     inkscape:cx="54"
+     inkscape:cy="54"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     transform="translate(-1.5300867,4.9854963)">
+    <g
+       id="g5"
+       transform="rotate(-45,61.904304,33.625783)">
+      <path
+         sodipodi:type="star"
+         style="fill:#323333;fill-opacity:1;stroke:#323333;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+         id="path4"
+         inkscape:flatsided="false"
+         sodipodi:sides="6"
+         sodipodi:cx="46.515583"
+         sodipodi:cy="40"
+         sodipodi:r1="43.466652"
+         sodipodi:r2="34.773323"
+         sodipodi:arg1="0"
+         sodipodi:arg2="0.52359878"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 89.982235,40 76.630164,57.386662 68.248909,77.643225 46.515583,74.773323 24.782257,77.643225 16.401002,57.386661 3.0489311,40 16.401002,22.613338 24.782257,2.3567752 46.515583,5.2266769 68.248909,2.3567752 76.630164,22.613339 Z" />
+      <g
+         id="g4">
+        <circle
+           style="fill:#00b0e1;fill-opacity:1;stroke:#28819a;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+           id="path3"
+           cx="46.515583"
+           cy="40"
+           r="27" />
+        <g
+           id="g2"
+           transform="matrix(0.97734383,0,0,0.97734383,-20.859415,130.5625)"
+           style="stroke-width:1.02318">
+          <circle
+             style="fill:#999999;stroke:#737373;stroke-width:6.13909;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+             id="path1"
+             cx="68.936844"
+             cy="-92.661865"
+             r="21.486809" />
+          <path
+             style="fill:#999999;stroke:#737373;stroke-width:6.13909;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+             d="m 68.936844,-114.14867 v 42.973614"
+             id="path2" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

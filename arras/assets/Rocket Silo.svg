@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="108"
+   height="108"
+   viewBox="0 0 108 108"
+   sodipodi:docname="Rocket Silo.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.462963"
+     inkscape:cx="54"
+     inkscape:cy="54"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     transform="translate(-0.04900937,0.64319721)">
+    <g
+       id="g5"
+       transform="rotate(-45,66.405383,37.584752)">
+      <path
+         sodipodi:type="star"
+         style="fill:#666666;stroke:#4d4d4d;stroke-width:5.98233;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke markers fill"
+         id="path6"
+         inkscape:flatsided="false"
+         sodipodi:sides="12"
+         sodipodi:cx="46.515579"
+         sodipodi:cy="40"
+         sodipodi:r1="36.891186"
+         sodipodi:r2="29.512949"
+         sodipodi:arg1="0"
+         sodipodi:arg2="0.26179939"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 83.406765,40 -8.383866,7.638513 3.441384,10.80708 L 67.384386,60.868806 64.961172,71.948704 54.154092,68.50732 46.515579,76.891186 38.877066,68.50732 28.069986,71.948704 25.646773,60.868806 14.566875,58.445593 18.00826,47.638513 9.6243935,40 18.00826,32.361487 14.566875,21.554407 25.646773,19.131194 28.069986,8.051296 l 10.80708,3.441384 7.638513,-8.3838658 7.638514,8.3838658 10.807079,-3.441384 2.423214,11.079898 11.079897,2.423213 -3.441384,10.80708 z"
+         transform="matrix(1.0029535,0,0,1.0029535,-0.13737995,-0.11814)" />
+      <g
+         id="g4">
+        <circle
+           style="fill:#00b0e1;fill-opacity:1;stroke:#28819a;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+           id="path3"
+           cx="46.515583"
+           cy="40"
+           r="27" />
+        <g
+           id="g2"
+           transform="matrix(0.32578166,0,0,0.32578167,24.057224,56.187542)"
+           style="stroke-width:3.06954"
+           inkscape:transform-center-y="-13.999995">
+          <circle
+             style="fill:#999999;stroke:#737373;stroke-width:18.4172;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+             id="path1"
+             cx="68.936844"
+             cy="-92.661865"
+             r="21.486809" />
+          <path
+             style="fill:#999999;stroke:#737373;stroke-width:18.4172;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+             d="m 68.936844,-114.14867 v 42.973614"
+             id="path2" />
+        </g>
+        <g
+           id="g6"
+           transform="matrix(0.32578166,0,0,-0.32578167,24.057224,23.812458)"
+           style="stroke-width:3.06954"
+           inkscape:transform-center-y="13.999995">
+          <circle
+             style="fill:#999999;stroke:#737373;stroke-width:18.4172;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+             id="circle1"
+             cx="68.936844"
+             cy="-92.661865"
+             r="21.486809" />
+          <path
+             style="fill:#999999;stroke:#737373;stroke-width:18.4172;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+             d="m 68.936844,-114.14867 v 42.973614"
+             id="path5" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
