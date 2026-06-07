@@ -6,6 +6,7 @@
         <link rel="stylesheet" type="text/css" href="../tankPage.css">
         <link rel="stylesheet" type="text/css" href="../arrasPage.css">
         <link rel="icon" type="image/x-icon" href="../../icon.svg">
+        <script src="gantry_carriage.js"></script>
     </head>
     <body>
         <h1>Gantry Carriage</h1>
@@ -29,7 +30,11 @@
                     </section>
                 </section> 
                 <section class="infobox">
-                    <img src="../assets/Gantry Carriage.svg">
+                    <section class="infoboxButtons columns2">
+                        <p id="connected" class="button selected">Connected</p>
+                        <p id="disconnected" class="button">Disconnected</p>
+                    </section>
+                    <img id="image" src="../assets/Gantry Carriage.svg">
                     <p class="tier tier5">Tier 5 Tank</p>
                     <p>Upgrades from Shrapnel</p>
                     <p class="beforeWeaponInfo">Weapons:</p>
